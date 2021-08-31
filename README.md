@@ -2,7 +2,7 @@
 
 
 Welcome to my Github! 👏🏾 <br>
-   - 🧑🏽‍💻 technologies: Java, React, Bootstrap, Sccs and more.
+   - 🧑🏽‍💻 technologies: Java, React, Bootstrap, Python, Sccs and more.
 
 <img 
      src="https://c.tenor.com/B3WgMwFXrBQAAAAC/boom-explosion.gif"
